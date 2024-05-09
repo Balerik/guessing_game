@@ -30,12 +30,7 @@ How to Play
 
         
 
-**Contributing**
+
 
   Contributions to this project are welcome! Since I'm a beginner in Python, feedback is much appreciated.
 
-
-
-**License**
-
-  This project is licensed under the MIT License.
