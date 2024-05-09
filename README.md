@@ -32,5 +32,5 @@ How to Play
 
 
 
-  Contributions to this project are welcome! Since I'm a beginner in Python, feedback is much appreciated.
+  Feedback to this project are welcome! Since I'm a beginner in Python, I'll take all the criticism you got!
 
