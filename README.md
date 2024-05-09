@@ -20,7 +20,7 @@ How to Play
 
   **Game Rules:**
         The game will generate a random number between 0 and 100.
-        You need to guess the number in which it will show you how many tries it took to guess that number
+        You need to guess the number in which it will show you how many tries it took to guess that number.
         After each guess, the game will provide data on whether your guess is too high, too low, or correct.
 
         
