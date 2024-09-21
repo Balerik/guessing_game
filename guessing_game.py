@@ -33,7 +33,7 @@ while playing.lower() == "yes":
 
 print("Thank you for playing!")
 
-input("Press any key to exit the program...")
+print("Press any key to exit the program...")
 
 
 # Wait for any key press to exit program
